@@ -1,0 +1,12 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:20128",
+    "ANTHROPIC_AUTH_TOKEN": "sk-3d08e5d078e1d45d-2da2c4-4b912a05",
+    "ANTHROPIC_MODEL": "usage",
+    "DISABLE_AUTOUPDATER": "1",
+    "SN_BASE_URL": "https://sensenova.ai",
+    "SN_API_KEY": "sk-3RQTapysVtk7fvIenkA4I6rOrrfCHRXJ",
+    "SN_CHAT_MODEL": "sensenova-6.8-flash-lite",
+    "CLAUDE_CODE_MODEL_MAPPING": "{\"claude-sonnet-5-5\":\"anthropic/claude-3-5-sonnet\"}"
+  }
+}
